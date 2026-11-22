@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Siddharth 👋
+
+I'm a student building hands-on skills in **Linux administration**, **networking**, and **ethical hacking**.
+
+- 🌱 **Currently learning:** Bash scripting, Linux CLI, and network security fundamentals
+- 🛠️ **Lab focus:** VirtualBox virtual labs, system hardening, and security automation scripts
+- 📚 **On this profile:** Structured study notes, beginner scripts, and authorized lab writeups
 
 <!--
 **siddharthhalale/siddharthhalale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
